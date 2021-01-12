@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 Atualmente estou colocando tijolo por tijolo na construção do meu objetivo de tornar-me um Desenvolvedor Full-Stack. No meu GitHub você poderá perceber que meu aprendizado é constante e meu interesse é grande, tenho plena confiança de que em breve irei alcançar todo o conhecimento que preciso para me sentir confiante de me inserir no mercado de trabalho e me tornar um desenvolvedor de sucesso. ⚡
+
 <!--
 **luizmacmillan/luizmacmillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
