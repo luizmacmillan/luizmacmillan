@@ -7,6 +7,11 @@
 Conhecimentos:
 Metodologias Ágeis, Trabalho em Equipe, Escuta Ativa, Desenvolvedor Web, Front-End, Back-End, Full Stack, JavaScript, React, Redux, Context API, SQL, MySQL, NoSQL, MongoDB, Node.Js, Express, Arquitetura MSC, RESTful.
 
+<hr>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luizmacmillan&theme=blue-green)](https://github.com/luizmacmillan/github-readme-stats)
+<hr>
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmacmillan&theme=blue-green)
+
 <!--
 **luizmacmillan/luizmacmillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
