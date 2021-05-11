@@ -1,11 +1,11 @@
-## Hi there 👋
+## Olá! 👋
 
-😄 Sou apaixonado por Tecnologia, estudante ávido e empolgado de inglês (Mairo Vergara) e desenvolvimento de software (Trybe). Trabalhei por 8 anos na empresa Tambasa Atacadistas alcançando o cargo de Gerente de Vendas e me formei como Bacharel em Administração de Empresas pela Faculdade Pitágoras.
+😄 Sou apaixonado por Tecnologia, estudante ávido e empolgado de inglês (Mairo Vergara) e desenvolvimento de software (Trybe). Trabalhei por 8 anos na empresa Tambasa Atacadistas alcançando o cargo de Gerente de Vendas e me formei como Bacharel em Administração de Empresas pela Faculdade Pitágoras. Hoje estou mudando de profissão e, com o que já aprendi até agora, estou certo de que encontrei o que eu quero para o resto da minha vida: Desenvolver!
 
-🌱 Atualmente estou colocando tijolo por tijolo na construção do meu objetivo de tornar-me um Desenvolvedor Full-Stack. No meu GitHub você poderá perceber que meu aprendizado é constante e meu interesse é grande, tenho plena confiança de que em breve irei alcançar todo o conhecimento que preciso para me sentir confiante de me inserir no mercado de trabalho e me tornar um desenvolvedor de sucesso. ⚡
+🌱 Atualmente estou colocando tijolo por tijolo na construção do meu objetivo de me tornar um Desenvolvedor Full-Stack. ⚡
 
 Conhecimentos:
-Soft Skills, Agile, Metodologias Ágeis, Trabalho em Equipe, Escuta Ativa, Hard Skills, Desenvolvedor Web, Front-End, Back-End, Full Stack, JavaScript, React, MySQL.
+Metodologias Ágeis, Trabalho em Equipe, Escuta Ativa, Desenvolvedor Web, Front-End, Back-End, Full Stack, JavaScript, React, Redux, Context API, SQL, MySQL, NoSQL, MongoDB, Node.Js, Express, Arquitetura MSC, RESTful.
 
 <!--
 **luizmacmillan/luizmacmillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
