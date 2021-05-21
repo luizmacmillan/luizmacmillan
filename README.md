@@ -1,11 +1,8 @@
 ## Olá! 👋
 
-😄 Sou apaixonado por Tecnologia, estudante ávido e empolgado de inglês (Mairo Vergara) e desenvolvimento de software (Trybe). Trabalhei por 8 anos na empresa Tambasa Atacadistas alcançando o cargo de Gerente de Vendas e me formei como Bacharel em Administração de Empresas pela Faculdade Pitágoras. Hoje estou mudando de profissão e, com o que já aprendi até agora, estou certo de que encontrei o que eu quero para o resto da minha vida: Desenvolver!
+Sou apaixonado por Tecnologia, estudante ávido e empolgado de inglês (Mairo Vergara) e desenvolvimento de software (Trybe). Trabalhei por 8 anos na área administrativa e desenvolvi diversas habilidades dentre elas liderança, trabalho em equipe, auto-gestão, pro atividade, senso de responsabilidade e comunicação. Hoje busco oportunidades em que eu possa me desenvolver e atuar como Desenvolvedor Full Stack.
 
-🌱 Atualmente estou colocando tijolo por tijolo na construção do meu objetivo de me tornar um Desenvolvedor Full-Stack. ⚡
-
-Conhecimentos:
-Metodologias Ágeis, Trabalho em Equipe, Escuta Ativa, Desenvolvedor Web, Front-End, Back-End, Full Stack, JavaScript, React, Redux, Context API, SQL, MySQL, NoSQL, MongoDB, Node.Js, Express, Arquitetura MSC, RESTful.
+Tecnologias Utilizadas: Front-End: JavaScript, React, Redux e Context API. Back-End: SQL, MySQL, NoSQL, MongoDB, Node.Js, Express, MSC e RESTful.
 
 <hr>
  
