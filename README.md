@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Sou apaixonado por Tecnologia, estudante ávido e empolgado de inglês (Mairo Vergara) e desenvolvimento de software (Trybe). Trabalhei por 8 anos na área administrativa e desenvolvi diversas habilidades dentre elas liderança, trabalho em equipe, auto-gestão, pro atividade, senso de responsabilidade e comunicação. Hoje busco oportunidades em que eu possa me desenvolver e atuar como Desenvolvedor Full Stack.
+Sou apaixonado por Tecnologia, estudante ávido e empolgado de inglês e desenvolvimento de software. Trabalhei por 8 anos na área administrativa e desenvolvi diversas habilidades dentre elas liderança, trabalho em equipe, auto-gestão, pro atividade, senso de responsabilidade e comunicação. Hoje estou, com muito orgulho, construindo e consolidando meus conhecimentos na empresa Prodap.
 
 Tecnologias Utilizadas: Front-End: JavaScript, React, Redux e Context API. Back-End: SQL, MySQL, NoSQL, MongoDB, Node.Js, Express, MSC e RESTful.
 
